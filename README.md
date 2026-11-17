@@ -1,3 +1,5 @@
+
+
 # Answer Checking API
 
 ![Status](https://img.shields.io/badge/Status-Experimental-orange)
@@ -8,6 +10,10 @@
 > AI 리터러시 향상을 위해 생성형 AI 답변의 사실 정확성과 맥락적 적절성을 평가하는 검증 API
 
 ## Overview
+
+
+https://github.com/user-attachments/assets/695e9b43-b6fb-42f2-a3fb-913bcb6b9bfb
+
 
 생성형 AI의 답변에는 사실 오류나 부적절한 정보가 포함될 수 있습니다.
 
