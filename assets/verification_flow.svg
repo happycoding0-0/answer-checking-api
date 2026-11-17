@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="508" height="2004" viewBox="0 0 508 2004" role="img" aria-labelledby="title desc">
+<title id="title">AI answer verification support flow</title>
+<desc id="desc">A dark themed vertical flowchart in Korean showing the process from AI use to responsible AI use, including an internal verification system. Watermarked with Lee jee woo.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+    <path d="M0,0 L10,5 L0,10 Z" fill="#8f959c"/>
+  </marker>
+  <style>
+    text { font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI','Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR',sans-serif; }
+    .panel-title { fill:#ffffff; font-size:30px; font-weight:700; }
+    .wm { fill:#d0d5dc; opacity:0.22; font-size:18px; font-weight:600; }
+    .wm-small { fill:#d0d5dc; opacity:0.52; font-size:14px; font-weight:500; }
+  </style>
+</defs>
+<rect width="100%" height="100%" fill="#111111"/>
+<text x="474" y="28" text-anchor="end" class="wm-small">Designed by Lee jee woo</text>
+<rect x="83" y="18" width="342" height="110" rx="26" fill="#002d5b" stroke="#244b6f" stroke-width="1.4"/>
+<text x="254.0" y="81.05" text-anchor="middle" font-size="23" font-weight="700" fill="#a6d2ff">사용자의 AI 활용</text>
+<line x1="254.0" y1="128" x2="254.0" y2="196" stroke="#8f959c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="77" y="214" width="354" height="122" rx="26" fill="#002d5b" stroke="#244b6f" stroke-width="1.4"/>
+<text x="254.0" y="284.45" text-anchor="middle" font-size="27" font-weight="700" fill="#a6d2ff">AI 생성 답변</text>
+<line x1="254.0" y1="336" x2="254.0" y2="480" stroke="#8f959c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="25" y="430" width="458" height="932" fill="rgba(255,255,255,0.03)" stroke="#3a3a3a" stroke-width="1.4"/>
+<text x="254" y="458" text-anchor="middle" class="panel-title">검증 시스템</text>
+<rect x="71" y="499" width="366" height="120" rx="26" fill="#002d5b" stroke="#244b6f" stroke-width="1.4"/>
+<text x="254.0" y="567.75" text-anchor="middle" font-size="25" font-weight="700" fill="#a6d2ff">답변 검증 지원 API</text>
+<line x1="254.0" y1="619" x2="254.0" y2="663" stroke="#8f959c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="97" y="681" width="314" height="116" rx="26" fill="#002d5b" stroke="#244b6f" stroke-width="1.4"/>
+<text x="254.0" y="747.4" text-anchor="middle" font-size="24" font-weight="700" fill="#a6d2ff">검증 검색어 생성</text>
+<line x1="254.0" y1="797" x2="254.0" y2="845" stroke="#8f959c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="97" y="863" width="314" height="116" rx="26" fill="#002d5b" stroke="#244b6f" stroke-width="1.4"/>
+<text x="254.0" y="929.4" text-anchor="middle" font-size="24" font-weight="700" fill="#a6d2ff">외부 근거 검색</text>
+<line x1="254.0" y1="979" x2="254.0" y2="1023" stroke="#8f959c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="55" y="1041" width="398" height="118" rx="26" fill="#002d5b" stroke="#244b6f" stroke-width="1.4"/>
+<text x="254.0" y="1107.7" text-anchor="middle" font-size="22" font-weight="700" fill="#a6d2ff">정확성 및 적절성 평가</text>
+<line x1="254.0" y1="1159" x2="254.0" y2="1201" stroke="#8f959c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="55" y="1219" width="398" height="118" rx="26" fill="#002d5b" stroke="#244b6f" stroke-width="1.4"/>
+<text x="254.0" y="1285.7" text-anchor="middle" font-size="22" font-weight="700" fill="#a6d2ff">판단 근거 및 출처 제공</text>
+<line x1="254.0" y1="1337" x2="254.0" y2="1446" stroke="#8f959c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="16" y="1466" width="476" height="120" rx="26" fill="#002d5b" stroke="#244b6f" stroke-width="1.4"/>
+<text x="254.0" y="1533.7" text-anchor="middle" font-size="22" font-weight="700" fill="#a6d2ff">사용자의 직접적인 근거 확인</text>
+<line x1="254.0" y1="1586" x2="254.0" y2="1640" stroke="#8f959c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="37" y="1658" width="434" height="120" rx="26" fill="#002d5b" stroke="#244b6f" stroke-width="1.4"/>
+<text x="254.0" y="1725.7" text-anchor="middle" font-size="22" font-weight="700" fill="#a6d2ff">비판적 사고 및 최종 판단</text>
+<line x1="254.0" y1="1778" x2="254.0" y2="1836" stroke="#8f959c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="67" y="1854" width="374" height="108" rx="26" fill="#002d5b" stroke="#244b6f" stroke-width="1.4"/>
+<text x="254.0" y="1915.0" text-anchor="middle" font-size="20" font-weight="700" fill="#a6d2ff">책임감 있는 AI 활용</text>
+<text x="472" y="1988" text-anchor="end" class="wm">Lee jee woo</text>
+</svg>
